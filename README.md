@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KarelCan
-- 👀 I have worked in a field unrelated to programming, but starting to learn about it in June 2021
+- 👋 Hi, I’m @KarelCan, and I am a Front End Developer with Angular in Dynaway.
+- 👀 I have worked in a field unrelated to programming, but starting to learn about it in June 2021.
 - 📚 I've started with FreeCodeCamp's 300 hour courses: "Responsive Web Development" and "Javascript Datastructures", and then moved on to Udemy courses like
       - "Angular - The Complete Guide" 
       - "Angular & NodeJS - The MEAN Stack Guide"
       - "Complete Web Design: from Figma to Webflow to Freelancing" (improving in styling and learning to prototype before development)
-- 🌱 Since July 2022 I work as a Junior Front End developer with Angular (+ Ionic) in Dynaway.
