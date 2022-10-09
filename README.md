@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @KarelCan
 - 👀 I’ve studied Sales and Marketing, but I got more and more interested in programming starting somewhere in June 2021.
-- 📚 I've gone through two of FreeCodeCamp's 300 hour courses: "Responsive Web Development" and "Javascript Datastructures"
+- 📚 I've started with FreeCodeCamp's 300 hour courses: "Responsive Web Development" and "Javascript Datastructures", and then moved on to Udemy courses
 - 🌱 I’m currently working as a Junior Front End developer with Angular in Dynaway.
